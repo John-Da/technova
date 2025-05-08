@@ -4,4 +4,4 @@ This is Technova which is inspired by Tech Web Page. And also Self-learning is o
 
 <br/>
 
-[![](https://img.shields.io/badge/View_Technova_Webpage-%63E4405F.svg?style=for-the-badge&logo=View&logoColor=white)](https://john-da.github.io/Basic-Math/)
+[![](https://img.shields.io/badge/View_Technova_Webpage-%63E4405F.svg?style=for-the-badge&logo=View&logoColor=white)](https://john-da.github.io/technova/)
